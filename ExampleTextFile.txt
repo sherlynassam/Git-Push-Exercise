@@ -1,0 +1,4 @@
+# Example Text File
+
+This is just an example text file that I'm pushing up to my classmate's fork.
+Eventually, I'll make a pull request and hope that they will accept my new file.
